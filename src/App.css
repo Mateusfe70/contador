@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f3f4f6;
+
+  /* centraliza na tela */
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* card do contador */
+#root > div {
+  background: white;
+  padding: 40px;
+  border-radius: 10px;
+  width: 320px;
+  text-align: center;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+/* título */
+h1 {
+  font-size: 26px;
+  margin-bottom: 25px;
+  color: #333;
+}
+
+/* botões padrão */
+button {
+  border: none;
+  padding: 12px 18px;
+  margin: 10px;
+  font-size: 15px;
+  border-radius: 6px;
+  cursor: pointer;
+  color: white;
+  transition: 0.2s;
+}
+
+/* botão azul (incrementar) */
+button:first-of-type {
+  background-color: #2563eb;
+}
+
+button:first-of-type:hover {
+  background-color: #1d4ed8;
+}
+
+/* botão vermelho (decrementar) */
+button:last-of-type {
+  background-color: #ef4444;
+}
+
+button:last-of-type:hover {
+  background-color: #dc2626;
+}
