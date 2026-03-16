@@ -30,5 +30,5 @@ Este projeto é um contador simples desenvolvido com **React** e **Redux**, cria
 ## Deploy
 
 https://contador-incrementar-decrementar.vercel.app/
-👨‍💻 Autor
-Desenvolvido por Mateus Felipe, em estudos de desenvolvimento front-end e Redux.
+
+👨‍💻 Autor : Desenvolvido por Mateus Felipe, em estudos de desenvolvimento front-end e Redux.
