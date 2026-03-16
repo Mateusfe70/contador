@@ -29,7 +29,7 @@ Este projeto é um contador simples desenvolvido com **React** e **Redux**, cria
 
 ## Deploy
 
-https://contador-em-react.vercel.app/
+https://contador-incrementar-decrementar.vercel.app/
 
 👨‍💻 Autor
 
